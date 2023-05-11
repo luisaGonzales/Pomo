@@ -1,10 +1,12 @@
-Problem solved/hypothesis to test
+## Description
 
-How has this been tested (attach below)?
-[ ] Loom link (if none, explain why):
-[ ] Screenshots with description
+Provide an overview, which problem have you solved? 
 
-Checklist
-[ ] I have reviewed my own PR and made changes where necessary
-[ ] I have commented my code, particularly in hard-to-understand areas
-[ ] I have obtained Product/UX feedback as necessary
+## Checklist
+
+- [ ] The Pull Request has the right naming conventions (feat/chore/bugfix).
+- [ ] I have tested my changes and added unit tests.
+- [ ] I have reviewed my own PR and made changes where necessary\
+- [ ] I have obtained Product/UX feedback as necessary
+
+## Screenshots
